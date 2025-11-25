@@ -1,2 +1,0 @@
-# PythonExerc-cios
-ExPython
