@@ -1,7 +1,5 @@
 from random import randint
 
-from django.contrib.admin.templatetags.admin_list import items_for_result
-
 print('escolha : Pedra[0], Papel[1] ou Tesoura[2]')
 jogador = int(input("Jogador1 :"))
 
